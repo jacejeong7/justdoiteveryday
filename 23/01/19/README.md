@@ -4,6 +4,8 @@
 
 [Terraform remote state](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-remote)
 
+[image:./img/t_remote.png]
+
 
 ```
 terraform {
